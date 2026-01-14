@@ -25,7 +25,10 @@ The system is controlled via a physical button and can optionally be configured 
 | USB cable | 1 | Power & programming |
 
 ---
+### 💻 Code
+[File](https://github.com/GeorgeVerik/IntroductionToRobotics/tree/9f4dd884d04f2a9fff899b2aa95391b9167dc8bb/homework3)
 
+---
 ## Tutorial Source
 The project is **not directly based on a single tutorial**.
 
