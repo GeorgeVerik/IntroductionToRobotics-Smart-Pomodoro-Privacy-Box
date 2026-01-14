@@ -29,6 +29,9 @@ The system is controlled via a physical button and can optionally be configured 
 [File](https://github.com/GeorgeVerik/IntroductionToRobotics-Smart-Pomodoro-Privacy-Box/blob/ab1efb3be91932312544e52d90af40d9df278fb9/Final_Matrix_Project.ino)
 
 ---
+### DEMO CIRCUIT 
+<img width="1536" height="1024" alt="ChatGPT Image 14 Ιαν 2026, 09_21_05 μ μ" src="https://github.com/user-attachments/assets/9a0714d1-1fe2-4dec-a110-1f0bc983d891" />
+
 ## Tutorial Source
 The project is **not directly based on a single tutorial**.
 
